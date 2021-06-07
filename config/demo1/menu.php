@@ -20,7 +20,7 @@ return array(
 
         // Account
         array(
-            'title'      => 'Account',
+            'title'      => 'Account1',
             'icon'       => array(
                 'svg'  => Theme::getSvgIcon("icons/duotone/General/User.svg", "svg-icon-2"),
                 'font' => '<i class="bi bi-person fs-2"></i>',
@@ -45,6 +45,7 @@ return array(
                                 "data-bs-placement" => "right",
                             ),
                         ),
+
                     ),
                     array(
                         'title'      => 'Settings',
